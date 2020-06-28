@@ -1,5 +1,3 @@
-# databases=organised collection of data,generally stored and accessed electronically.
-#sql:structured query language.
 import sqlite3
 
 def connect(dbname):
