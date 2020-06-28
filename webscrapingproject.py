@@ -1,4 +1,3 @@
-#web scraping using requests and beautiful soup.
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
